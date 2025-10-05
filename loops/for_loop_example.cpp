@@ -14,7 +14,7 @@ int main() {
 
     // For loop to print table from 1 to 10
     for (int i = 1; i <= 10; i++) {
-        cout << num << " × " << i << " = " << (num * i) << endl;
+        cout << num << " x " << i << " = " << (num * i) << endl;
     }
 
     // Sample Output:
